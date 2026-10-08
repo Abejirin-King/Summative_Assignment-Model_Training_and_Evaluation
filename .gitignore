@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+data/
+*.zip
+*.csv
+*.keras
+*.h5
+*.joblib
+.DS_Store
